@@ -1,2 +1,13 @@
 # Orange POS - NodeJS/ReactJS/TailwindCSS (FullStack)
-Orange POS - NodeJS/ReactJS/TailwindCSS
+
+## FrontEnd - ReactJs
+-
+
+## BackEnd - NodeJs(Express)
+-
+
+## Database - MySQL
+-
+
+## Deployment - [None]
+-
