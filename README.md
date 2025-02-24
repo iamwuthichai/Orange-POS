@@ -1,5 +1,6 @@
 # Orange POS - NodeJS/ReactJS (FullStack)
-
+- Project status: In Progress
+  
 ## FrontEnd 
 - ReactJs
 - TailwindCSS (DaisyUI)
