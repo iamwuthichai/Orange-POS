@@ -1,4 +1,4 @@
-# Orange POS - NodeJS/ReactJS (FullStack)
+# Orange POS - NodeJS(Express,Prisma)/ReactJS (FullStack)
 - Project status: In Progress
   
 ## FrontEnd 
@@ -7,7 +7,7 @@
 - UI Framework (Ant Design)
 
 ## BackEnd 
-- NodeJs (Express)
+- NodeJs (Express + Prisma)
 
 ## Database 
 - MySQL
